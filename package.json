@@ -1,0 +1,15 @@
+{
+  "name": "gulp-revision",
+  "version": "1.0.0",
+  "description": "gulp add version to file name and create a manifest.son file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "plugin"
+  ],
+  "author": "moka-fe",
+  "license": "ISC"
+}
