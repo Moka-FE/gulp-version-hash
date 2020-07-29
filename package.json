@@ -1,6 +1,6 @@
 {
   "name": "gulp-revision",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "gulp add version to file name and create a manifest.son file",
   "main": "index.js",
   "scripts": {
